@@ -19,7 +19,7 @@ ML Cheatsheet 【既有统计机器学习的基础知识，又有神经网络的
 
 ## 深度学习编程
 
-keras实践教程【简单易用的深度学习编程库，中英版齐全】
+keras实践教程【简单易用的深度学习编程库，中英版齐全。基于Tensorflow、CNTK的高级封装】
 
 [CN](http://keras-cn-docs.readthedocs.io/zh_CN/latest/blog/image_classification_using_very_little_data/)
 
