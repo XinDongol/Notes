@@ -13,6 +13,9 @@ UFLDL Tutorial【斯坦福大学出品，简单易懂，中英版齐全】
 
 [CN](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
+ML Cheatsheet 【既有统计机器学习的基础知识，又有神经网络的部分。内容十分全面，工具型网站】
+
+[Eng](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
 ## 深度学习编程
 
