@@ -27,22 +27,25 @@ with tf.Session() as sess:
 
 ### Monitoring via Tensorboard
 
-#####Add Histogram Monitor 
+##### Add Histogram Monitor 
+
 	tf.summary.histogram('sigma',tf.reshape(tf.exp(0.5*log_sigma2),[-1]))
 	
-#####Add Scalar Monitor
+##### Add Scalar Monitor
+
 	tf.summary.scalar('cross_entropy',cross_entropy) 
 	
-#####Merge Monitors
+##### Merge Monitors
+
 	merged_summary_op = tf.summary.merge_all()
 	
-#####Set Log-dir
+##### Set Log-dir
 	logs_path = '/home/xdong/codes/tf-variational-dropout-master/logs_path/exp0/'
 	summary_writer = tf.summary.FileWriter(logs_path)
 	
-#####At Each Step
+##### At Each Step
 	summary_writer.add_summary(summary, global_step=int(i/1000))
 	
-#####Lunch Tensorboard
+##### Lunch Tensorboard
 	tensorboard --logdir=logs_path	
 	
