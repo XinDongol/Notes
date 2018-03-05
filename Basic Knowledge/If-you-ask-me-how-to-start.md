@@ -25,7 +25,9 @@ keras实践教程【简单易用的深度学习编程库，中英版齐全。基
 
 Pytorch教程【简单好用的深度学习编程库，Facebook出品】
 
-[Website](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+[官方教程](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+[Code of book "Learn Deep Learning with PyTorch"](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch)
 
 Tensorflow教程【不怎么好用但是挺多人用的机器学习编程库，Google出品】
 
