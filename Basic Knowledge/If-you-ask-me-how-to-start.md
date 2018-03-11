@@ -33,6 +33,8 @@ Tensorflow教程【不怎么好用但是挺多人用的机器学习编程库，G
 
 [Website](https://www.tensorflow.org/tutorials/)
 
+[资源集锦](https://github.com/jtoy/awesome-tensorflow)
+
 几个有趣的知乎专栏
 
 [菜鸡的啄米日常](https://zhuanlan.zhihu.com/chicken-life)
